@@ -18,3 +18,5 @@ function digitize(n) {
     
     //input a number
     //output an array that is reversed
+
+    //more on the challenging side! i learned that you cannot reverse numbers, so you must do string conversions first. will be very helpful in the future.

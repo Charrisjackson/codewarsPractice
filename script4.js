@@ -8,3 +8,5 @@ function simpleMultiplication(number) {
     return number * 9;
   }
 }
+
+//again one of the ones I felt more comfortable with, spent way too mucvh time overthinking whetehr i should use %2!==0 or %2 ===0

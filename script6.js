@@ -39,3 +39,4 @@ function equal5(){
       b =  v4; //set number value to b
   return a % b; 
 }
+//not bad, the last function gave me a bit of trouble because i am used to associating % with 0 or 1, to find odd/even numbers

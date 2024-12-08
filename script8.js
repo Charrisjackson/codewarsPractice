@@ -18,3 +18,5 @@ function colorOf(r,g,b){
     
     
   }
+  //good bit of trial and error on this one, initially assumed it was easy, seeing as the hex conversion was given. nice challenge!
+  

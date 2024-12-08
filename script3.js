@@ -8,3 +8,4 @@ var max = function(list){
      list.sort((a,b) => b-a) //sorting list with sort descending syntax
     return list[0]; //returning first element in array (largest)
 }
+//figuring out the syntax for a descending sort was a bit challenging! it was only a matter of overthinking

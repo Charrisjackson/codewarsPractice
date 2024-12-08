@@ -26,3 +26,4 @@ function getLength(arr){
    
     return  arr;
   }
+  //I enjoyed this problem, allowed me to practice and reiterate some array methods

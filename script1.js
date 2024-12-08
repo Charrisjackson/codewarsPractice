@@ -13,3 +13,4 @@ function animal(obj){
     return `This ${obj.color} ${obj.name} has ${obj.legs} legs.`;
     }
     
+    //this was one of the easier problems, allowed me to get a comfortable start on whiteboarding and codears practice

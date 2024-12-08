@@ -10,3 +10,4 @@ function paperwork(n, m) {
     }
   }
   
+  //i enjoyed how the instructions on this problem sort of gave me direction of where to start. their usage of "or" gave me an idea tpo use the or operator
